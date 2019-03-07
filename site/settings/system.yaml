@@ -1,0 +1,8 @@
+app_key: ycEP5qdDpZVTeY3xdMGGMK4RU2NMQ16k
+yaml_parser: symfony
+locales:
+  en:
+    full: en_US
+    name: English
+    url: 'http://saratoga.test/'
+timezone: UTC
